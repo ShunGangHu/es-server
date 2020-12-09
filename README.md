@@ -99,5 +99,5 @@ npm start
 
   微信小程序：https://github.com/ShunGangHu/es-wa.git
 
-- 本项目会持续更新和维护，喜欢别忘了 Star。
+- 本项目会持续更新和维护，喜欢别忘了 Star，谢谢。
 
